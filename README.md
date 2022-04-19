@@ -5,5 +5,8 @@ All that was done, was debtap the original kali-repo pdfid package and install i
 
 ArchLinux packaged version of the kali-linux pdf analyses tool pdfid. 
 
-The original author according to the kali-repo is DidierStevensSuite.(https://github.com/DidierStevens/DidierStevensSuite).
+The original author of this awesome tool is, according to the kali-repo, DidierStevensSuite (https://github.com/DidierStevens/DidierStevensSuite).
 I couldn't detect the proper license so I will simply say that **his license(s) applies!**
+
+### Installation
+Either run the pdfid executable in a terminal or install the zst package with sudo pacman -U filename...zst
