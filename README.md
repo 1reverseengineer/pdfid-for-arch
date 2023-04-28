@@ -10,4 +10,4 @@ The original author of this awesome tool is, according to the kali-repo, DidierS
 I couldn't detect the proper license so I will simply say that **his license(s) apply!**
 
 ### Installation
-Either run the pdfid executable in a terminal or install the zst package with sudo pacman -U filename...zst
+Either run the pdfid executable in a terminal or install the zst package with sudo pacman -U filename.zst
