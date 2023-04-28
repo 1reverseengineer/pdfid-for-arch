@@ -1,4 +1,4 @@
-# pdfid-bin
+# pdfid for ArchLinux
 ### Context
 After attempting to search for a pdf analysis tool for a regular linux distro, it became clear that such a simple solution doesn't exist. Peepdf was using python2 and pdfid was a kali-package.
 All that was done, was debtap the original kali-repo pdfid package and install it with pacman.
